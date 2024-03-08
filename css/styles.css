@@ -1,0 +1,23 @@
+body {
+    font-family: 'Copilme', sans-serif;
+    font-size: 1em;
+	color: #333;
+	margin: 0 auto;
+    padding: 0;
+	min-width: 768px;
+	max-width: 1024px;
+}
+
+.music {
+    font-family: 'Gluten', sans-serif;   
+    font-size: 2em;
+    font-weight: bold; 
+    margin-top: 20px;
+}
+
+.repeat {
+    font-family: 'Gluten', sans-serif; 
+    position: relative;
+    color: red;
+    left: 20%;
+}
